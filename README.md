@@ -8,16 +8,16 @@ The purpose of this website is to serve as a blog for Nduma Farming Farm, sharin
 
 ## Pages
 
-- **Home (index.html)**: Introduction to the blog.
-- **About (about.html)**: Information about the farm and link to Facebook page.
-- **Blog (blog.html)**: Sample blog posts.
+- **Home (index.html)**: Introduction to the blog with hero image.
+- **About (about.html)**: Information about the farm with planting image and link to Facebook page.
+- **Blog (blog.html)**: Blog posts with images for planting and intercropping techniques.
 - **Contact (contact.html)**: Contact form for inquiries.
 
 ## Structure
 
 - `css/styles.css`: Responsive styles with animations.
 - `js/script.js`: Interactivity for menu and form.
-- `images/`: For future images.
+- `images/`: Contains farm images (planting_image.png, intercropping_with_Kales.png) used throughout the site.
 
 ## Live URL
 
