@@ -22,7 +22,7 @@ The purpose of this website is to serve as a blog for Nduma Farming Farm, sharin
 ## Live URLs
 
 - **GitHub Pages**: https://jethrokimande.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
-- **Vercel**: [Add Vercel URL after deployment]
+- **Vercel**: https://nduma-farming.vercel.app (after deployment)
 
 ## How to Run Locally
 
