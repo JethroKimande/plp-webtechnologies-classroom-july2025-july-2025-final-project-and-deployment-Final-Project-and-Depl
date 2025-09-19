@@ -19,9 +19,10 @@ The purpose of this website is to serve as a blog for Nduma Farming Farm, sharin
 - `js/script.js`: Interactivity for menu and form.
 - `images/`: Contains farm images (planting_image.png, intercropping_with_Kales.png, about_image.png) used throughout the site.
 
-## Live URL
+## Live URLs
 
-Deployed on GitHub Pages: https://jethrokimande.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+- **GitHub Pages**: https://jethrokimande.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+- **Vercel**: [Add Vercel URL after deployment]
 
 ## How to Run Locally
 
