@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "index.html",
+      "src": "**",
       "use": "@vercel/static"
     }
   ],
@@ -20,7 +20,11 @@
       "dest": "/images/$1"
     },
     {
-      "src": "/(.*)",
+      "src": "/(about|blog|contact).html",
+      "dest": "/$1.html"
+    },
+    {
+      "src": "/",
       "dest": "/index.html"
     }
   ],
